@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Git Lab</description>
+   <name>LoginGitLab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2f8a66d-7a56-4eab-bab3-304aba8425cb</testCaseGuid>
+</TestCaseEntity>

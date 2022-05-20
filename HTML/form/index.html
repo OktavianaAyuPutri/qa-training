@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h2>Halaman Form</h2>
+    <form>
+        <label for="fname">Nama Depan :</label><br>
+        <input type="text" id="fname" name="fname" value="Sarah"><br>
+        <label for="lname">Nama Belakang :</label><br>
+        <input type="text" id="lname" name="lname" value="Putri"><br><br>
+        <input type="submit" value="submit">
+        <input type="reset">
+    </form> <br>
+
+    <form>
+        <label for="Email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="password">Password</label><br>
+        <input type="password" id="password" name="password"><br><br>
+        <input type="submit" value="login">
+    </form><br>
+
+    <h2>Radio forms</h2>
+    <form action="../iframes.html" target="_blank" method="POST">
+        <input type="radio" id="html" name="fav_language" value="HTML">
+        <label for="HTML">HTML</label><br>
+        <input type="radio" id="css" name="fav_language" value="CSS">
+        <label for="css">CSS</label><br>
+        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+        <label for="JavaScript">JavaScript</label>
+    </form> <br>
+
+    <H2>Gender</H2>
+    <form action="action_page.php">
+        <input type="radio" id="gender-Pria" name="gender" value="Pria">
+        <label for="gender-Pria">Pria</label>
+
+        <input type="radio" id="gender-wanita" name="gender" value="Wanita">
+        <label for="gender-Wanita">Wanita</label><br>
+
+        <input type="submit">
+    </form><br>
+
+    <h2>Religion</h2>
+    <form action="action_page.php">
+        <input type="radio" id="gender-Islam" name="religion" value="Islam">
+        <label for="gender-Islam">Islam</label> <br>
+
+        <input type="radio" id="gender-Katholik" name="religion" value="Khatolik">
+        <label for="gender-Khatolik">Katholik</label><br>
+
+        <input type="radio" id="gender-Kristen" name="religion" value="Kristen">
+        <label for="gender-Kristen">Kristen</label><br>
+
+        <input type="submit">
+    </form>
+
+    <h2>Selection</h2>
+    <form action="action_page.php">
+        <label for="name">List</label><br>
+        <select id="name" name="name">
+            <option value="Category List">Category List</option><br>
+            <option value="City">City</option>
+            <option value="State">State</option>
+            <option value="Food">Food</option>
+            <input type="submit">
+        </select><br>
+
+        <label for="gender">Gender</label><br>
+        <select id="gender" name="gender">
+            <option value="Choose Gender">Choose Gender</option><br>
+            <option value="Pria">Pria</option>
+            <option value="Wanita">Wanita</option>
+            <input type="submit">
+        </select><br>
+
+        <label for="Religion">Religion</label><br>
+        <select id="Religion" name="Religion" size="2" multiple>
+            <option value="Choose Gender">Choose Gender</option>
+            <option value="Islam">Islam</option>
+            <option value="Khatolik">Khatolik</option>
+            <option value="Kristen">Kristen</option>
+            <option value="Buddha">Buddha</option><br>
+            <input type="submit">
+        </select>
+    </form>
+
+    
+    <h2>Text Area</h2>
+    <form action="/action.page.php">
+        <fieldset>
+            <legend>Text Area</legend>
+                <label for="comments">Comments :</label><br>
+                <textarea name="message" style="width:200px; height:100px;">The cat was playing in the garden.</textarea><br>
+
+                <label for="address">Address:</label><br>
+                <textarea name="address" style="width:200px; height: 100px;">Address</textarea><br>
+
+                <label for="description">Description :</label><br>
+                <textarea name="description" style="width:200px ; height: 100px">Description</textarea><br>
+                
+                <input type="submit">
+        </fieldset>
+    </form> <br>
+
+    <h2>Checkboxes</h2>
+    <form action="action_page.php">
+        <input type="checkbox" id="vichecel1" name="vichecel1" value="bike">
+        <label for="vichecel1">i have a bike</label><br>
+        <input type="checkbox" id="vichecel2" name="vichecel2" value="bike">
+        <label for="vichecel2">i have a bike</label><br>
+        <input type="checkbox" id="vichecel3" name="vichecel3" value="bike">
+        <label for="vichecel3">i have a bike</label><br>
+    </form>
+
+    <h2>Input Button Allert</h2>
+    <input type="button" onclick="alert('Selamat datang')" value="Click on me">
+    <br>
+
+
+    <h2>Input mix and max attributes</h2>
+    <form action="/action_page.php">
+        <label for="datemax">Enter a date:</label>
+        <input type="date" id="datemax" name="datemax"><br><br>
+
+        <label for="datemax">Enter a date:</label>
+        <input type="date" id="datemin" name="datemin"><br><br>
+
+        <label for="quantity">Beetween 1-5 :</label>
+        <input type="number" id="quantity" name="quantity"><br><br>
+        <input type="submit">
+    </form>
+
+
+</body>
+</html>

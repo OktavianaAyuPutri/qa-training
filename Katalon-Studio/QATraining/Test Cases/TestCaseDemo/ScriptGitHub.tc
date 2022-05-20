@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script for Git Hub</description>
+   <name>ScriptGitHub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c4c594-08f0-45e2-b144-6e2b07516458</testCaseGuid>
+</TestCaseEntity>

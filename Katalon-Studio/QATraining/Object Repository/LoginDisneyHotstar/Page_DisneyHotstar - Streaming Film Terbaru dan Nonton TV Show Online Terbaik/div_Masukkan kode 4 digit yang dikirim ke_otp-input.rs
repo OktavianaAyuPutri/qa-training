@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masukkan kode 4 digit yang dikirim ke_otp-input</name>
+   <tag></tag>
+   <elementGuidId>2055b650-bf37-49a9-8218-e7786c438cb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.otp-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db47a179-38f8-47a4-adf2-23d60f7674d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>otp-input</value>
+      <webElementGuid>33797043-2609-4782-91d9-2375526ec1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;landing-page-container&quot;]/div[@class=&quot;master-container&quot;]/div[@class=&quot;master-container-inner&quot;]/div[@class=&quot;sign-in-container&quot;]/div[@class=&quot;signin-modal-wrapper&quot;]/div[1]/div[@class=&quot;login-modal showLogin&quot;]/div[@class=&quot;generic-modal&quot;]/div[@class=&quot;modal-base showModal slide-up&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-content-data&quot;]/div[@class=&quot;pnl-manager&quot;]/div[@class=&quot;otp-container&quot;]/div[3]/div[@class=&quot;otp-input&quot;]</value>
+      <webElementGuid>dc7c7dd1-ab9a-40b3-afe6-625f9c3fbfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a36fda5-b603-46e6-8923-a6155e2b6551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>otp-input</value>
+      <webElementGuid>db6d3b20-75c7-41cc-b852-71c30e996511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;landing-page-container&quot;]/div[@class=&quot;master-container&quot;]/div[@class=&quot;master-container-inner&quot;]/div[@class=&quot;sign-in-container&quot;]/div[@class=&quot;signin-modal-wrapper&quot;]/div[1]/div[@class=&quot;login-modal showLogin&quot;]/div[@class=&quot;generic-modal&quot;]/div[@class=&quot;modal-base showModal slide-up&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-content-data&quot;]/div[@class=&quot;pnl-manager&quot;]/div[@class=&quot;otp-container&quot;]/div[3]/div[@class=&quot;otp-input&quot;]</value>
+      <webElementGuid>bcfd5d3f-2253-42ed-9cf9-8a5e834a5e60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>77cec3d1-1fa8-4a98-8126-89a406ed12e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan kode 4 digit yang dikirim ke'])[1]/following::div[2]</value>
+      <webElementGuid>3812fa9d-0a88-46f0-a693-cf359b0f9b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tonton film'])[62]/following::div[29]</value>
+      <webElementGuid>df51cfcd-8966-405b-9dfb-0b850c0757be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak menerima SMS?'])[1]/preceding::div[1]</value>
+      <webElementGuid>5714c555-deb9-46d8-a2a9-a5af976eb46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dapatkan kode melalui panggilan dalam 00:01'])[1]/preceding::div[2]</value>
+      <webElementGuid>6d294a7a-624e-4a64-8e70-6d80ce380ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>bfecb4db-5aff-4463-a403-94702387cf64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

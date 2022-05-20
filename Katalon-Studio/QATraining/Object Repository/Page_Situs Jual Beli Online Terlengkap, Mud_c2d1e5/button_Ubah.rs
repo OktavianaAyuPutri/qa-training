@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ubah</name>
+   <tag></tag>
+   <elementGuidId>7ada6b53-314f-4c37-9735-1dd990fe340f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-ftt357-unf-btn.eg8apji0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, Daftar'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>054fc027-7616-4f0e-bcf7-c4eee03df172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Button</value>
+      <webElementGuid>45b587fc-84cc-42b9-9f0f-dfcab3d721f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ftt357-unf-btn eg8apji0</value>
+      <webElementGuid>14242acb-a839-4ead-9e17-d1541f0b7008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah</value>
+      <webElementGuid>aa7b9a97-6683-4a4e-a0ee-eafd170776e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[@class=&quot;css-143pi0a-unf-dialog ef541p40&quot;]/div[@class=&quot;css-1e9pyns ef541p41&quot;]/button[@class=&quot;css-ftt357-unf-btn eg8apji0&quot;]</value>
+      <webElementGuid>8bb30560-7111-430b-ae8b-336c578a4190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, Daftar'])[1]/following::button[1]</value>
+      <webElementGuid>0cdf330e-8602-41db-8309-779136cd84d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oktvianaayuputrs@gmail.co'])[1]/following::button[2]</value>
+      <webElementGuid>bd5a1969-87f8-45e2-82b6-aa854e3aba12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button[2]</value>
+      <webElementGuid>71f1b7d7-8068-4d6c-b3e9-f8430f39668a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ubah' or . = 'Ubah')]</value>
+      <webElementGuid>167a8190-5cad-416b-9944-0a3f864f4293</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

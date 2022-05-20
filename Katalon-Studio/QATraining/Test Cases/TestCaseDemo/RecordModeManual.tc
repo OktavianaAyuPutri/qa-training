@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manual Record</description>
+   <name>RecordModeManual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c98fef24-87a9-4b01-ab92-c3cda7a3332f</testCaseGuid>
+</TestCaseEntity>

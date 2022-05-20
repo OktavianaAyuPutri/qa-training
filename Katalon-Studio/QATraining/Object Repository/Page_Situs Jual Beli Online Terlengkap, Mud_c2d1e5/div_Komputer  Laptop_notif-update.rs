@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Komputer  Laptop_notif-update</name>
+   <tag></tag>
+   <elementGuidId>728ec04b-4385-4b8c-8f48-c7bf6b43a23f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.notif-update</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div[3]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b9945a3-455d-4724-97f3-590b9c673267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notif-update</value>
+      <webElementGuid>ea8dc307-8fa1-4202-9c41-340c146a8f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-1tbvo2g-unf-modal e1nc1fa20&quot;]/div[@class=&quot;css-1qwpmq4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[1]/div[@class=&quot;css-1aq6kgm&quot;]/div[@class=&quot;css-1cqb3yx&quot;]/div[@class=&quot;notif-update&quot;]</value>
+      <webElementGuid>645927a4-f878-4c66-b666-08c8e3fc96d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]/div[3]</value>
+      <webElementGuid>7f52648e-ff5b-4858-a1f7-7f1662e72d32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

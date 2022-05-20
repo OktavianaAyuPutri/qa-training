@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Tonton  Akun Saya  Keluar</name>
+   <tag></tag>
+   <elementGuidId>4b9db572-857e-49ad-8879-375bb5b9350c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.user-pic > div.dropdown-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div[2]/div/div[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8c0b024-37f5-43cd-b461-e2266224bfbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-container</value>
+      <webElementGuid>08eb8097-7701-4d7f-9654-433d97a7da89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Daftar Tonton  Akun Saya  Keluar  </value>
+      <webElementGuid>63e5b312-ca4e-440d-a6f5-9dfa7e14fdfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;landing-page-container&quot;]/div[@class=&quot;master-container&quot;]/div[@class=&quot;master-container-inner&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;static-container&quot;]/div[@class=&quot;header fixed-header with-subs-nudge&quot;]/div[@class=&quot;nav-container&quot;]/div[@class=&quot;right-element user-profile&quot;]/div[@class=&quot;user-pic&quot;]/div[@class=&quot;dropdown-container&quot;]</value>
+      <webElementGuid>cab44ce1-7fdb-4bfb-98a6-82f172d1c650</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div[2]/div/div[6]/div/div</value>
+      <webElementGuid>fd480909-96fd-4dca-ac82-0846d2f6427d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesian'])[1]/following::div[4]</value>
+      <webElementGuid>08c19472-16a5-4721-9776-802bc81e27bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langganan'])[1]/following::div[7]</value>
+      <webElementGuid>a076c95b-7350-499e-86b6-5b1b0965d082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>97aec62c-8a69-4617-b988-147d73656dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Daftar Tonton  Akun Saya  Keluar  ' or . = '  Daftar Tonton  Akun Saya  Keluar  ')]</value>
+      <webElementGuid>7f059d78-efc1-47e9-bbdf-b7decd26331a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

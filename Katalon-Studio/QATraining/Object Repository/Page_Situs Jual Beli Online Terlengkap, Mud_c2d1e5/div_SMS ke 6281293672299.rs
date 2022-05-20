@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMS ke 6281293672299</name>
+   <tag></tag>
+   <elementGuidId>94a4f2ba-5c4d-458f-a872-fcd15727402c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi ke perangkatmu'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1175616e-4350-4f7c-859e-102d0dbf4b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-card css-19d2cr0-unf-card eh33ozn0</value>
+      <webElementGuid>0efdb308-bafe-414f-baa4-b9f88eac4ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Card</value>
+      <webElementGuid>1be19f2a-b153-49a8-b782-c806ad8720e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>sms</value>
+      <webElementGuid>31492b8f-28f2-4046-bd63-b5b9e5acbecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMS ke 6281293672299</value>
+      <webElementGuid>4a55f0c0-e2ac-4863-8bb9-983303bad9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-1tbvo2g-unf-modal e1nc1fa20&quot;]/div[@class=&quot;css-1qwpmq4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-4koktb&quot;]/div[@class=&quot;unf-card css-19d2cr0-unf-card eh33ozn0&quot;]</value>
+      <webElementGuid>a3011c59-bb40-4bcd-b645-d146cb1225d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi ke perangkatmu'])[1]/following::div[1]</value>
+      <webElementGuid>a3ab58c7-90f0-470c-991d-730ca90396e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor saya sudah tidak aktif'])[1]/preceding::div[2]</value>
+      <webElementGuid>8ea794fc-6d3b-46d7-91ce-4f8d221a656b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>ebedd811-190f-4c1d-a02f-01e8f7182016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SMS ke 6281293672299' or . = 'SMS ke 6281293672299')]</value>
+      <webElementGuid>2ea39090-7139-4d16-b1c1-51fa9568d0bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
